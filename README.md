@@ -1,10 +1,10 @@
 <h1 align="center">Fadi.WebPush</h1>
 
 <p align="center">
-  <a href="https://github.com/web-push-libs/web-push-csharp/actions/workflows/CI.yml">
-    <img src="https://github.com/web-push-libs/web-push-csharp/actions/workflows/CI.yml/badge.svg" alt="CI Build" />	
+  <a href="https://github.com/fadiksho/Fadi.WebPush/actions/workflows/workflow.yml">
+    <img src="https://github.com/fadiksho/Fadi.WebPush/actions/workflows/workflow.yml/badge.svg" alt="CI Build" />	
   </a>
-  <a href="https://www.nuget.org/packages/WebPush/">
+  <a href="https://www.nuget.org/packages/Fadi.WebPush/">
     <img src="https://buildstats.info/nuget/WebPush" alt="Nuget Package Details" />
   </a>
 </p>
