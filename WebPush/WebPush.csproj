@@ -2,6 +2,8 @@
 
   <PropertyGroup>
 		<TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>Fadi.WebPush</AssemblyName>
+    <RootNamespace>Fadi.WebPush</RootNamespace>
   </PropertyGroup>
 
 <PropertyGroup>
