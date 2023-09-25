@@ -5,7 +5,7 @@
     <img src="https://github.com/fadiksho/Fadi.WebPush/actions/workflows/workflow.yml/badge.svg" alt="CI Build" />	
   </a>
   <a href="https://www.nuget.org/packages/Fadi.WebPush/">
-    <img src="https://buildstats.info/nuget/WebPush" alt="Nuget Package Details" />
+    <img src="https://buildstats.info/nuget/Fadi.WebPush/" alt="Nuget Package Details" />
   </a>
 </p>
 
